@@ -20,6 +20,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f66c53b14fa231f664e63abe0916ce40/transformed/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/59b124e4f85035b69e73189e337df77d/transformed/jetified-kotlin-android-extensions-runtime-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6e1ccda1132df1d3a8584933d91d6a65/transformed/jetified-core-ktx-1.7.0-api.jar</arg>
